@@ -1,0 +1,10 @@
+INSERT INTO tb_cliente(name, cpf, income, birth_date, children) VALUES ('Johann Wolfgang von Goethe','02145685214',2.2,'1749-08-28',3);
+INSERT INTO tb_cliente(name, cpf, income, birth_date, children) VALUES ('Leonardo di Ser Piero da Vinci','96587412536',2.2,'1452-04-15',0);
+INSERT INTO tb_cliente(name, cpf, income, birth_date, children) VALUES ('Nicolau Copérnico','35574144895',2.2,'1473-02-19',0);
+INSERT INTO tb_cliente(name, cpf, income, birth_date, children) VALUES ('Isaac Newton PRS','55416587795',2.2,'1643-01-04',0);
+INSERT INTO tb_cliente(name, cpf, income, birth_date, children) VALUES ('Galileo di Vincenzo Bonaulti Galilei','33698575325',2.2,'1564-02-15',3);
+INSERT INTO tb_cliente(name, cpf, income, birth_date, children) VALUES ('Nikola Tesla','11148615377',2.2,'1856-07-10',0);
+INSERT INTO tb_cliente(name, cpf, income, birth_date, children) VALUES ('William Shakespeare','44855136945',2.2,'1564-04-26',3);
+INSERT INTO tb_cliente(name, cpf, income, birth_date, children) VALUES ('François-Marie Arouet Voltaire','77452866415',2.2,'1694-11-21',0);
+INSERT INTO tb_cliente(name, cpf, income, birth_date, children) VALUES ('Marie Sklodowska-Curie','25788496832',2.2,'1867-11-07',2);
+INSERT INTO tb_cliente(name, cpf, income, birth_date, children) VALUES ('Marco Aurélio','14785236919',2.2,'0121-04-26',14);
