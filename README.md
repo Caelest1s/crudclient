@@ -1,23 +1,14 @@
 # CRUD Client
- CRUD cliente w/validation. Tech's: Spring Boot + VSCode + jakarta + BD H2 + REST
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Caelest1s/crudclient/blob/main/LICENSE)
 
 # Sobre o projeto
 
-Projeto usando Spring Boot contendo um CRUD completo de web services REST para acessar um recurso de clientes, contendo as cinco operações básicas: create, retrieve, update, delete and search.
+Projeto usando Spring Boot contendo um CRUD completo de Web Services REST para acessar recurso de clientes, contendo as cinco operações: Create, Retrieve, Update, Delete e Search.
 Sendo desenvolvida durante curso da [DevSuperior](https://devsuperior.club/login) e finalizando mais uma etapa.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/Caelest1s/crudclient/blob/main/src/main/assets/modelo%20conceitual.jpg)
 
 # Tecnologias utilizadas
 ## Back end
@@ -27,9 +18,6 @@ Sendo desenvolvida durante curso da [DevSuperior](https://devsuperior.club/login
 - JPA / Hibernate 
 - Maven
 - BD H2
-
-## Back end
-- Java 17
 
 ```bash
 # clonar repositório
