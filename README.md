@@ -45,4 +45,4 @@ git clone https://github.com/Caelest1s/crudclient
 # Autor
 Jefferson Nascimento de Jesus Celestino
 
-https://www.linkedin.com/in/caelestis/
+<a href="https://www.linkedin.com/in/caelestis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
