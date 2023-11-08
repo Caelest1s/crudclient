@@ -4,21 +4,39 @@
 
 # Sobre o projeto
 
-Projeto usando Spring Boot contendo um CRUD completo de Web Services REST para acessar recurso de clientes, contendo as cinco operações: Create, Retrieve, Update, Delete e Search.
-Sendo desenvolvida durante curso da [DevSuperior](https://devsuperior.club/login) e finalizando mais uma etapa.
+Projeto Spring Boot + Web Services REST utilizando CRUD para acessar recurso de clientes, contendo as cinco operações: Create, Retrieve, Update, Delete and Search.
+Sendo desenvolvida durante curso da [DevSuperior](https://devsuperior.com.br) finalizando mais uma etapa.
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/Caelest1s/crudclient/blob/main/src/main/assets/modelo%20conceitual.jpg)
 
-# Tecnologias utilizadas
-## Back end
+## Desafio do projeto
+
+A proposta do projeto é implementar um CRUD com Web Services a fim de retornar um relatório, quando:
+1. Busca por id retorna cliente existente
+2. Busca por id retorna 404 para cliente inexistente
+3. Busca paginada retorna listagem paginada corretamente
+4. Inserção de cliente com dados válidos
+5. Inserção de cliente retorna 422 e mensagens customizadas com dados inválidos
+6. Atualização de cliente com dados válidos
+7. Atualização de cliente retorna 404 para cliente inexistente
+8. Atualização de cliente retorna 422 e mensagens customizadas com dados inválidos
+9. Deleção de cliente existente
+10. Deleção de cliente retorna 404 para cliente inexistente
+
+# Tecnologias Utilizadas
+## Back End
 - Java
 - Spring Boot
 - Spring Web
 - JPA / Hibernate 
 - Maven
-- BD H2
+- Banco de Dados: H2
 
+## Dependências/Bibliotecas
+- Jakarta - Bean Validation
+
+## Repositório
 ```bash
 # clonar repositório
 git clone https://github.com/Caelest1s/crudclient
