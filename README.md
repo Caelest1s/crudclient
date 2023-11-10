@@ -12,7 +12,7 @@ Sendo desenvolvida durante curso da [DevSuperior](https://devsuperior.com.br) fi
 
 ## Desafio do projeto
 
-A proposta do projeto é implementar um CRUD com Web Services a fim de retornar um relatório, quando:
+A proposta do projeto é implementar um CRUD com Web Services a fim de retornar um response (resposta) quando:
 1. Busca por id retorna cliente existente
 2. Busca por id retorna 404 para cliente inexistente
 3. Busca paginada retorna listagem paginada corretamente
